@@ -9,7 +9,8 @@ a) Any person who has been initiated into the Tennessee Kappa Chapter (the "Chap
 b) Any person who is a member of the National Fraternity as defined in Article V of the Constitution of the National Fraternity and who is admitted to membership in the Association by 75% vote of the trustees present at any regular meeting of the Board of Trustees of the Association (the “Board of Trustees”); or
 
 c) Any person who by 75% vote of the trustees present at any regular meeting of the Board of Trustees is elected to honorary membership in the Association. Any such person shall continue to be a member of the Association as long as he adheres to all the principles upon which the Association is based and to the Constitution and Bylaws of the National Fraternity.
-II. Meetings of the Association.
+
+## II. Meetings of the Association.
 
 a) A regular meeting of the members of the Association shall be held at least once every year, at a time and place to be specified by the Board of Trustees. Such meeting shall be designated the "Annual Meeting.” Special meetings of the members shall be held if called by the President of the Association (the “President”) or by a majority of the Board of Trustees present at any regular meeting thereof. All meetings of the members shall be held at the principal meeting location of the aforesaid Chapter or at such other place within the City of Martin, Tennessee, as may be specified by the Board of Trustees.
 
