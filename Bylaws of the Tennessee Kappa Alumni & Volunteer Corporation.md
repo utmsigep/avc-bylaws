@@ -69,7 +69,10 @@ At any meeting of this Association, five (5) members must be present in person t
 ### Section 6.
 The members of the Association shall at each annual meeting elect no more than five members to the Board of Trustees, and such members shall hold office for three (3) years. Upon petition of any three members in good standing, the name of any other member in good standing may be entered into nomination, provided such petition shall have been presented to the secretary before the annual meeting is called to order. Only such members as shall have been nominated in the previously mentioned manner shall be eligible for election. In the event of a lack of quorum for the annual meeting, the Board of Trustees shall elect the members from the list of nominees.
 
-### Section 7.
+### Section 7
+The Board of Trustees may, at its discretion, appoint a replacement Trustee when a vacancy exists on the Board for any reason. A Trustee appointed in this manner shall serve the remainder of the unexpired term.
+
+### Section 8.
 The president, or in his or her absence, the vice president, shall preside, and the secretary shall act as secretary at each Association meeting. In their absence, the members of the Association shall appoint the necessary substitutes by majority vote.
 
 ## Article V - Board of Trustees
